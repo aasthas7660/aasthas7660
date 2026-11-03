@@ -1,16 +1,41 @@
-## Hi there 👋
 
-<!--
-**aasthas7660/aasthas7660** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Astha Singh</h1>
+<h3 align="center">Computer Science Student | Aspiring Software Developer</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  Exploring technology, building projects, and learning something new every day.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👩‍💻 About Me
+
+- 🎓 B.Sc. Computer Science student
+- 💻 Interested in Web Development, AI/ML, and Cybersecurity
+- 🌱 Currently strengthening my skills in Python, JavaScript, and React
+- 🚀 Enjoy building practical projects and exploring new technologies
+- 🤝 Open to learning opportunities, collaborations, and internships
+
+### 🛠️ Technologies & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,react,nextjs,tailwind,supabase,postgres,git,github,vscode" />
+</p>
+
+### 🚀 Featured Projects
+
+<!-- We will add your project links here next. -->
+
+### 📫 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/aastha-singh-a7aa73314">
+    LinkedIn
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Keep learning. Keep building. Keep growing. ✨</i>
+</p>
