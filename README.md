@@ -22,9 +22,54 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,python,java,react,nextjs,tailwind,supabase,postgres,git,github,vscode" />
 </p>
 
+
 ### 🚀 Featured Projects
 
-<!-- We will add your project links here next. -->
+<table>
+<tr>
+<td width="50%">
+<h3>🤖 AI Outline Pro</h3>
+An AI-powered project for generating structured outlines.
+<br/><br/>
+<a href="https://github.com/aasthas7660/ai-outline-pro">View Repository →</a>
+</td>
+<td width="50%">
+<h3>🔍 SEO Analyser</h3>
+A Chrome extension that analyses on-page SEO elements of blog posts.
+<br/><br/>
+<a href="https://github.com/aasthas7660/seo-analyzer-extension">View Repository →</a>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3>📸 Screenshot to Spec</h3>
+A project focused on turning screenshots into development specifications.
+<br/><br/>
+<a href="https://github.com/aasthas7660/screenshot-to-spec">View Repository →</a>
+</td>
+<td width="50%">
+<h3>🎨 UI Revamp</h3>
+A user interface redesign project.
+<br/><br/>
+<a href="https://github.com/aasthas7660/ui-revamp">View Repository →</a>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3>⚡ Fastest Finger Fast</h3>
+A speed-based interactive project.
+<br/><br/>
+<a href="https://github.com/aasthas7660/Fastest-finger-fast">View Repository →</a>
+</td>
+<td width="50%">
+<h3>🌐 WebDev Hub</h3>
+A web development learning and practice project.
+<br/><br/>
+<a href="https://github.com/aasthas7660/webdev-hub">View Repository →</a>
+</td>
+</tr>
+</table>
+
 
 ### 📫 Connect With Me
 
