@@ -83,26 +83,6 @@
   <i>More projects and experiments coming soon!</i>
 </p>
 
-## 📸 Screenshots
-
-### 🏠 Extension Home
-![Home](screenshots/home.png)
-
-### 📄 On-Page SEO Analysis
-![On-Page Analysis](screenshots/on-page.png)
-
-### ⚙️ Technical SEO Analysis
-![Technical Analysis](screenshots/technical-page.png)
-
-### 🛠️ SEO Recommendations
-![SEO Fixes](screenshots/fixes-page.png)
-
-### 🤖 AI-Powered Suggestions
-![AI Suggestions](screenshots/ai-suggestions.png)
-
-### 🌙 Dark Mode
-![Dark Mode](screenshots/dark-mode.png)
-
 
 ### 📫 Connect With Me
 
