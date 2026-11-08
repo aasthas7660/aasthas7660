@@ -83,6 +83,25 @@
   <i>More projects and experiments coming soon!</i>
 </p>
 
+## 📸 Screenshots
+
+### Extension Interface
+![SEO Analyzer Home](screenshots/home.png)
+
+### On-Page Analysis
+![ON -Page Aanlysis](screenshots/on-page.png)
+
+### Technical SEO Analysis
+![Technical SEO Analysis](screenshots/technical-page.png)
+
+### SEO Recommendations
+![SEO Fixes](screenshots/fixes-page.png)
+
+### AI-Powered Suggestions
+![AI Suggestions](screenshots/ai-suggestions.png)
+
+### Dark Mood
+![Dark Mood](screenshots/dark-mood.png)
 
 
 ### 📫 Connect With Me
