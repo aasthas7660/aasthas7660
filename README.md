@@ -85,23 +85,23 @@
 
 ## 📸 Screenshots
 
-### Extension Interface
-![SEO Analyzer Home](screenshots/home.png)
+### 🏠 Extension Home
+![Home](screenshots/home.png)
 
-### On-Page Analysis
-![ON -Page Aanlysis](screenshots/on-page.png)
+### 📄 On-Page SEO Analysis
+![On-Page Analysis](screenshots/on-page.png)
 
-### Technical SEO Analysis
-![Technical SEO Analysis](screenshots/technical-page.png)
+### ⚙️ Technical SEO Analysis
+![Technical Analysis](screenshots/technical-page.png)
 
-### SEO Recommendations
+### 🛠️ SEO Recommendations
 ![SEO Fixes](screenshots/fixes-page.png)
 
-### AI-Powered Suggestions
+### 🤖 AI-Powered Suggestions
 ![AI Suggestions](screenshots/ai-suggestions.png)
 
-### Dark Mood
-![Dark Mood](screenshots/dark-mood.png)
+### 🌙 Dark Mode
+![Dark Mode](screenshots/dark-mode.png)
 
 
 ### 📫 Connect With Me
